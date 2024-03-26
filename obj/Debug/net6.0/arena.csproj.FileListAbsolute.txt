@@ -1,0 +1,15 @@
+C:\Users\tedyc\OneDrive\Desktop\arena\bin\Debug\net6.0\arena.exe
+C:\Users\tedyc\OneDrive\Desktop\arena\bin\Debug\net6.0\arena.deps.json
+C:\Users\tedyc\OneDrive\Desktop\arena\bin\Debug\net6.0\arena.runtimeconfig.json
+C:\Users\tedyc\OneDrive\Desktop\arena\bin\Debug\net6.0\arena.dll
+C:\Users\tedyc\OneDrive\Desktop\arena\bin\Debug\net6.0\arena.pdb
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.csproj.AssemblyReference.cache
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.AssemblyInfoInputs.cache
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.AssemblyInfo.cs
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.csproj.CoreCompileInputs.cache
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.dll
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\refint\arena.dll
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.pdb
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\arena.genruntimeconfig.cache
+C:\Users\tedyc\OneDrive\Desktop\arena\obj\Debug\net6.0\ref\arena.dll
